@@ -1,0 +1,6 @@
+{
+  "copy" : [".gitignore"],
+  "copyPrefix" : "./template_files/",
+  "orgPrefix" : "0x81-sh/",
+  "commitMessage" : "Update"
+}
